@@ -19,6 +19,7 @@ This Python script automates the process of extracting follower and following li
 - Selenium
 - BeautifulSoup4
 - Pandas
+- openpyxl
 - Tkinter (usually comes pre-installed with Python)
 
 You can install the necessary Python packages with the following commands:
